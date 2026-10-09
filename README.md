@@ -170,7 +170,7 @@ The app is deployed on [Streamlit Community Cloud](https://streamlit.io/cloud).
 
 ## AUTHOR
 
-This tool was built by me, Elzel de Beer as a data insights portfolio project.
+This tool was built by me, Elzel Qoqokwakhe De Beer as a data insights portfolio project.
 
 ## ACKNOWLEDGEMENTS 
 
