@@ -14,7 +14,7 @@ The page opens with generative stipple artwork drawn from your own data, then th
 
 ## SENTIMENT SCOPE PREVIEW
 
-- <img width="1600" height="773" alt="EQ DE BEER SA DA" src="https://github.com/user-attachments/assets/7c4bb0a1-760f-4322-ae21-add54217b5ec" />
+- <img width="959" height="461" alt="SENTIMEN SCOPE" src="https://github.com/user-attachments/assets/bfb49f1c-5a33-4458-af5a-cdc9f41f150c" />
 - <img width="1598" height="786" alt="EQ DE BEER SA DI" src="https://github.com/user-attachments/assets/8726330c-300f-4181-bbef-52d3fc34e8fd" />
 - <img width="1596" height="784" alt="EQ DE BEER SA   DI" src="https://github.com/user-attachments/assets/5047416c-98d6-4059-bad1-5ae76fc3ce8c" />
 
